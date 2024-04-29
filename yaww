@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Hard Working Team</title>
+  <style>
+     h1 {
+      text-align: center; /* Center align the heading */
+    }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .team-members {
+      display: flex;
+      justify-content: space-between;
+    }
+    .team-member {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    .team-member img {
+      width: 130px;
+      height: 130px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+    .team-member-details {
+      margin-bottom: 20px;
+    }
+    .social-icons a {
+      margin-right: 5px;
+      text-decoration: none;
+      color: #333;
+    }
+    .social-icons img {
+      width: 60px;
+      height: 60px;
+    }
+  </style>
+</head>
+<body>
+  <h1>𝐎𝐮𝐫 𝐇𝐚𝐫𝐝 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐓𝐞𝐚𝐦</h1>
+  <div class="team-members">
+    <div class="team-member">
+      <img src="https://scontent.fmnl16-1.fna.fbcdn.net/v/t1.15752-9/418735596_906239577862575_2074404704639003567_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGQk0gKPy2-bGTKXy6sRLLidEdl5H3zSnF0R2XkffNKcWxZFNTC1dOuJ__fVNBV1d5DswQfju24JdNb1a6HvqN4&_nc_ohc=3bXRbMKc9AwAb71fNTA&_nc_ht=scontent.fmnl16-1.fna&oh=03_Q7cD1QF1av4CMFf8GKMakPVg389NhSyoV0MmG8p8hsvs0dvaEQ&oe=66560C41" alt="Godwin Ducusin">
+      <div class="team-member-details">
+        <h2>Godwin Ducusin</h2>
+        <p>Chief Executive Officer</p>
+        <div class="social-icons">
+          <a href="https://www.facebook.com/godwinducusin" target="_blank"><img src="https://i.pinimg.com/564x/5b/ee/52/5bee52fa1411082205d151a185650658.jpg" alt="Facebook"></a>
+          <a href="https://www.instagram.com/godwinducusin" target="_blank"><img src="https://i.pinimg.com/564x/52/5d/31/525d31be112f02cbb8d0aefc6bde21cc.jpg" alt="Instagram"></a>
+        </div>
+      </div>
+    </div>
+    <div class="team-member">
+      <img src="https://scontent.fmnl16-1.fna.fbcdn.net/v/t1.15752-9/440203286_2610741809094522_6542552694723110669_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHJ8Gy8TtR8GoBKYRpXsKigWzgYrBRwSQdbOBisFHBJB1hnDwyS8dvMxBjfSne650WbRh_68v7u2e4zamXFfGzH&_nc_ohc=xrNDOkQD4NcAb4oGPIC&_nc_ht=scontent.fmnl16-1.fna&oh=03_Q7cD1QHMdRl8kbQnPYWMEZYmrZwF7M2yIw8bwx32nu0J-40GtA&oe=66560CBF" alt="Jan Selwyn Licera">
+      <div class="team-member-details">
+        <h2>Jan Selwyn Licera</h2>
+        <p>Product Manager</p>
+        <div class="social-icons">
+          <a href="https://www.facebook.com/janselwynlicera" target="_blank"><img src="https://i.pinimg.com/564x/5b/ee/52/5bee52fa1411082205d151a185650658.jpg" alt="Facebook"></a>
+          <a href="https://www.instagram.com/janselwynlicera" target="_blank"><img src="https://i.pinimg.com/564x/52/5d/31/525d31be112f02cbb8d0aefc6bde21cc.jpg" alt="Instagram"></a>
+        </div>
+      </div>
+    </div>
+    <div class="team-member">
+      <img src="https://scontent.fmnl16-1.fna.fbcdn.net/v/t1.15752-9/438231941_800346101558180_7549317939891196099_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGlx9tazvslUmqwu-MXqRhSJYING1H0Waglgg0bUfRZqLqPY7NLG8MVQHFTOF3NeGfmTUsRO6ax1IfSRWo8jzp-&_nc_ohc=CsuyHTdqmLoAb5C0dQ_&_nc_ht=scontent.fmnl16-1.fna&oh=03_Q7cD1QGLZ2lzLYXq60CZfnPXOKr2LXBDkL5RTzcIQxR5s-b3dA&oe=6655F6F4" alt="Kierron Mark Bautista">
+      <div class="team-member-details">
+        <h2>Kierron Mark Bautista</h2>
+        <p>CTO</p>
+        <div class="social-icons">
+          <a href="https://www.facebook.com/kierronmarkbautista" target="_blank"><img src="https://i.pinimg.com/564x/5b/ee/52/5bee52fa1411082205d151a185650658.jpg" alt="Facebook"></a>
+          <a href="https://www.instagram.com/kierronmarkbautista" target="_blank"><img src="https://i.pinimg.com/564x/52/5d/31/525d31be112f02cbb8d0aefc6bde21cc.jpg" alt="Instagram"></a>
+        </div>
+      </div>
+    </div>
+    <div class="team-member">
+      <img src="https://scontent.fmnl16-1.fna.fbcdn.net/v/t1.15752-9/438245513_445543411303544_3933586855050308071_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHEZEv5G4DcU-wlNNj_MJWmx0HQdRNQn0nHQdB1E1CfSYZvQgdMlxloagKu27NBabWsAwS-rl5Dz3OxZlsTi_Ni&_nc_ohc=SBuxFLiB_EEAb6IctF6&_nc_oc=AdgXzShKYDZh-UR2ep7Ltf5w_yvW6-1zxnk_XAclve3mEK8C9Kna0c1r8NaY4GMgNGQ&_nc_ht=scontent.fmnl16-1.fna&oh=03_Q7cD1QFLax4glCdPvltcfn2GZSSVeXwGvpfQ4ybDPF3g4UZ2Uw&oe=66561B13" alt="Aksel Batas">
+      <div class="team-member-details">
+        <h2>Aksel Batas</h2>
+        <p>Accountant</p>
+        <div class="social-icons">
+          <a href="https://www.facebook.com/akselbatas" target="_blank"><img src="https://i.pinimg.com/564x/5b/ee/52/5bee52fa1411082205d151a185650658.jpg" alt="Facebook"></a>
+          <a href="https://www.instagram.com/akselbatas" target="_blank"><img src="https://i.pinimg.com/564x/52/5d/31/525d31be112f02cbb8d0aefc6bde21cc.jpg" alt="Instagram"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
